@@ -3,8 +3,12 @@ module.exports = {
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: 'media',
   theme: {
-    extend: {},
+    container: {
+      center: true,
+      padding: "3.5rem",
+    },
   },
   plugins: [],
 }

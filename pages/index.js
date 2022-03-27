@@ -16,7 +16,7 @@ export default function Home() {
       <div className="container mt-10 text-center text-xl mx-auto">
         <p>Hey there. I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.</p> 
         <br/>
-        <p>However, I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it&apos;s the people who we can identify with.</p> 
+        <p>I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it&apos;s the people who we can identify with.</p> 
         <br/>
         {/* <p>If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p> */}
         <p>If that sounds like something you&apos;re into, then please check back. I&apos;ll be adding a newletter sign up with a free eBook soon.</p>

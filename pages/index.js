@@ -1,6 +1,5 @@
 export default function Home() {
 
-  console.log("hello")
   return (
     <div className="h-screen w-screen">
       <div className="container flex justify-center pt-10 flex-row items-center w-screen">
@@ -15,12 +14,12 @@ export default function Home() {
 
       {/* intro and cta text */}
       <div className="container mt-10 text-center text-xl mx-auto">
-        <p>Hey there. I'm Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.</p> 
+        <p>Hey there. I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.</p> 
         <br/>
-        <p>However, I like to focus on the people. It's the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it's the people who we can identify with.</p> 
+        <p>However, I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it&apos;s the people who we can identify with.</p> 
         <br/>
-        {/* <p>If that sounds like something you're into, then place join my monthly newsletter. You'll get upates on writing progress, discount codes, product updates, and no spam.</p> */}
-        <p>If that sounds like something you're into, then please check back. I'll be adding a newletter sign up with a free eBook soon.</p>
+        {/* <p>If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p> */}
+        <p>If that sounds like something you&apos;re into, then please check back. I&apos;ll be adding a newletter sign up with a free eBook soon.</p>
         </div>
       {/* end intro and cta text */}
     </div>

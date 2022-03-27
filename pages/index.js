@@ -13,7 +13,7 @@ export default function Home() {
       {/* end photo and name section */}
 
       {/* intro and cta text */}
-      <div className="container mt-10 text-center text-xl mx-auto">
+      <div className="container mt-10 text-center text-xl mx-auto lg:p-2/3">
         <p>Hey there. I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.</p> 
         <br/>
         <p>I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it&apos;s the people who we can identify with.</p> 
